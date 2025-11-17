@@ -67,9 +67,8 @@ src/
 2. Deploy the `dist` folder to Netlify, Vercel, GitHub Pages, or any static file host.
 3. If using Netlify/Vercel, point the build command to `npm run build` and the output directory to `dist`.
 
-## Live Link
-
-zee-devportfolio.netlify.app
+## 🚀 Live Demo  
+[zee-devportfolio.netlify.app](https://zee-devportfolio.netlify.app)
 
 ## License
 
