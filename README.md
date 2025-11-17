@@ -27,11 +27,6 @@ npm install
 # start dev server
 npm run dev
 
-# build for production
-npm run build
-
-# preview production build
-npm run preview
 ```
 
 Open `http://localhost:5173` in your browser after running `npm run dev`.
@@ -71,6 +66,10 @@ src/
 1. Run `npm run build` to create the production bundle in `dist/`.
 2. Deploy the `dist` folder to Netlify, Vercel, GitHub Pages, or any static file host.
 3. If using Netlify/Vercel, point the build command to `npm run build` and the output directory to `dist`.
+
+## Live Link
+
+zee-devportfolio.netlify.app
 
 ## License
 
